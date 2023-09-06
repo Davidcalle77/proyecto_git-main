@@ -1,0 +1,15 @@
+
+
+body{
+    background-color: rgb(94, 192, 109);
+}
+
+header{
+   background-image: url(img/portada.jpg);
+   height: 200px;
+}
+
+a{
+    color: white;
+    margin-left: 15px;
+}
